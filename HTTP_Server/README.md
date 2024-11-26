@@ -44,7 +44,7 @@ This project implements an HTTP server in C that processes requests from a web b
      - **Regular File**: Reads and displays the file content.
      - **CGI Script**: Executes and shows the output.
 
-![Alt Text](web_photos/page2.img)
+![Alt Text](web_photos/page2.png)
 
 4. **Page 3: Display Results**:
    - Page 3 displays the result based on the input path (e.g., directory listing, file content, CGI output, or an error message).
@@ -52,9 +52,9 @@ This project implements an HTTP server in C that processes requests from a web b
      - **Search Again**: Returns to Page 2.
      - **End Connection**: Navigates back to Page 1.
 
-![Alt Text](web_photos/page3.img)
+![Alt Text](web_photos/page3.png)
 
-![Alt Text](server_photos/response3.img)
+![Alt Text](server_photos/response3.png)
 
 ---
 
