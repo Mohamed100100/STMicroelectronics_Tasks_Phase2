@@ -95,13 +95,9 @@ This project implements an HTTP server in C that processes requests from a web b
 
 ## Example Outputs
 
-### Page 1: Welcome Page
-_Enter a placeholder for the screenshot._
+### Page 1: Directory Content 
+![Alt Text](Examples_photos/DirectoryContent1.png)
 
-**Server Response**:
-```
-User connected: John
-```
 
 ### Page 2: Path Input
 _Enter a placeholder for the screenshot._
