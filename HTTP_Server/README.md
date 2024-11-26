@@ -79,27 +79,17 @@ This project implements an HTTP server in C that processes requests from a web b
 
 2. **Build the Server**:
    ```bash
-   gcc -o server interactiveserver.c server.c pages.c -lpthread
+   gcc -o interactiveserver interactiveserver.c server.c pages.c server.h pages.h
    ```
 
 3. **Run the Server**:
    ```bash
-   ./server <port>
+   ./interactiveserver <port>
    ```
-   Replace `<port>` with the desired port number (e.g., `8080`).
+   Replace `<port>` with the desired port number (e.g., `9000`).
 
 4. **Test the Server**:
-   - Open a web browser and navigate to `http://localhost:<port>`.
-
----
-
-## Bonus Features
-
-- **Concurrent Access**:
-  - The server supports handling multiple connections simultaneously using `fork()` or threading mechanisms.
-  
-- **Dynamic Path Handling**:
-  - The server decodes URL-encoded paths to handle special characters (e.g., `%20` for spaces).
+   - Open a web browser and navigate to `http://<ip>:<port>`.
 
 ---
 
