@@ -101,19 +101,12 @@ This project implements an HTTP server in C that processes requests from a web b
 
 
 ### Page 2: Regular File Input
-![Alt Text](Examples_photos/FileContent2.png)
 ![Alt Text](Examples_photos/FileContent1.png)
+![Alt Text](Examples_photos/FileContent2.png)
 
-### Page 3: Display Results
-_Enter a placeholder for the screenshot._
 
-**Server Response**:
-```
-The Directory Content:
-- file1.txt
-- file2.txt
-- folder1/
-```
-
+### Page 3: CGI Excute
+![Alt Text](Examples_photos/HelloAppRun1.png)
+![Alt Text](Examples_photos/HelloAppRun.png)
 ---
 ``
