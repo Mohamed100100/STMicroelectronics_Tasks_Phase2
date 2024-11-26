@@ -96,16 +96,13 @@ This project implements an HTTP server in C that processes requests from a web b
 ## Example Outputs
 
 ### Page 1: Directory Content 
+![Alt Text](Examples_photos/DirectoryContent2.png)
 ![Alt Text](Examples_photos/DirectoryContent1.png)
 
 
-### Page 2: Path Input
-_Enter a placeholder for the screenshot._
-
-**Server Response**:
-```
-Received path: /home/user/documents
-```
+### Page 2: Regular File Input
+![Alt Text](Examples_photos/FileContent2.png)
+![Alt Text](Examples_photos/FileContent1.png)
 
 ### Page 3: Display Results
 _Enter a placeholder for the screenshot._
