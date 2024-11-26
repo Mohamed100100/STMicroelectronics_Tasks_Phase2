@@ -30,13 +30,14 @@ This project implements an HTTP server in C that processes requests from a web b
 
 2. **Page 1: Welcome and User Input**:
    - When the user opens the browser and navigates to `http://<ip>:<port>`, Page 1 is displayed.
-   - This page prompts the user to enter their name.
 ![Alt Text](web_photos/page0.png)
+   - This page prompts the user to enter their name.
+![Alt Text](web_photos/page1.png)
+![Alt Text](server_photos/response1.png)
+
    - After submitting, the server logs the name and navigates to Page 2.
 
-![Alt Text](web_photos/page1.png)
 
-![Alt Text](server_photos/response1.png)
 
 3. **Page 2: Path Input**:
    - Page 2 allows the user to input a file or directory path.
