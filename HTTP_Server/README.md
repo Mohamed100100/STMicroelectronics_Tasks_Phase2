@@ -24,7 +24,7 @@ This project implements an HTTP server in C that processes requests from a web b
 1. **Start the Server**:
    - Run the server with a specified port. For example:
      ```bash
-     ./server 8080
+     ./server 9000
      ```
    - The server starts listening for HTTP connections on the specified port.
 
