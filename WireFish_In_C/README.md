@@ -129,7 +129,7 @@ sudo ./wirefish <interface> [-ip <IP>] [-port <PORT>]
 
 ## Dynamic Filtering (Ctrl+C Feature)
 
-### When **Ctrl+C** is pressed, the program pauses, allowing modification of filters(IP,Port,Interface).
+### When **Ctrl+C** (signal) is pressed, the program pauses, allowing modification of filters(IP,Port,Interface).
 ```sh
 ==================================
 ========= Sniffer Paused =========
