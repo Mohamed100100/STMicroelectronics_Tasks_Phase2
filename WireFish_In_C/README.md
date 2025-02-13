@@ -1,5 +1,5 @@
 # Wirefish - A Packet Sniffer in C (Object-Oriented Design)
-
+![WireFish](images/WireFish.png)
 ## 📌 Introduction
 **Wirefish** is a packet sniffer written in **C**, following **Object-Oriented Programming (OOP) principles**. The project is designed to analyze network traffic, detecting and classifying different protocols at various layers of the **OSI model**. It supports key **Application, Transport, and Network Layer** protocols and provides structured data for each captured packet.
 
