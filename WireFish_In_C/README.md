@@ -4,7 +4,6 @@
 **Wirefish** is a packet sniffer written in **C**, following **Object-Oriented Programming (OOP) principles**. The project is designed to analyze network traffic, detecting and classifying different protocols at various layers of the **OSI model**. It supports key **Application, Transport, and Network Layer** protocols and provides structured data for each captured packet.
 
 ---
----
 ### **Protocol Data Unit (PDU) and Service Data Unit (SDU)**  
 In networking, **PDU (Protocol Data Unit)** and **SDU (Service Data Unit)** are fundamental concepts used to describe how data is transmitted between different layers of the **OSI model**.
 
@@ -17,7 +16,6 @@ A **PDU** is the unit of data that a specific layer of the OSI model transmits t
 | Transport | Segment (TCP) / Datagram (UDP) |
 | Network | Packet |
 | Data Link | Frame |
-| Physical | Bits |
 
 #### **2. Service Data Unit (SDU)**  
 An **SDU** is the data received from the upper layer by a specific OSI layer. It includes raw data plus control information added by the upper layer. The SDU is then encapsulated into the PDU of the lower layer.
@@ -32,17 +30,13 @@ An **SDU** is the data received from the upper layer by a specific OSI layer. It
 The **OSI (Open Systems Interconnection) model** is a conceptual framework that standardizes network communication into **7 layers**.  
 
 ### **OSI Layers and Their Functions**
-1. **Physical Layer** (Bits) → Transmits raw bitstream (e.g., cables, signals).
-2. **Data Link Layer** (Frames) → Ensures error-free data transfer between adjacent nodes (e.g., Ethernet, MAC addresses).
-3. **Network Layer** (Packets) → Handles logical addressing and routing (e.g., IP).
-4. **Transport Layer** (Segments) → Ensures end-to-end communication (e.g., TCP, UDP).
-5. **Session Layer** → Manages connections between applications.
-6. **Presentation Layer** → Translates data formats (e.g., encryption, compression).
-7. **Application Layer** → Provides user services (e.g., HTTP, FTP, DNS).
+1. **Data Link Layer** (Frames) → Ensures error-free data transfer between adjacent nodes (e.g., Ethernet, MAC addresses).
+2. **Network Layer** (Packets) → Handles logical addressing and routing (e.g., IP).
+3. **Transport Layer** (Segments) → Ensures end-to-end communication (e.g., TCP, UDP).
+4. **Application Layer** → Provides user services (e.g., HTTP, FTP, DNS).
 
 ---
 ![OSI](images/OSI.png)
----
 ---
 ![PDU and SDU](images/PDU_SDU.png)
 ---
