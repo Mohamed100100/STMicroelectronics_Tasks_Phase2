@@ -31,7 +31,7 @@ Each detected packet type contains the necessary encapsulated data:
 - **IP** (Raw IP Data)
 
 ---
-![Project Flow](images/hirarichy.png)
+![Project Flow](images/Project Flow.png)
 
 ---
 
