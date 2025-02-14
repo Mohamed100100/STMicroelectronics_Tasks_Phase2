@@ -150,7 +150,7 @@ Options:
 Enter choice:
 ```
 Here Is the link for video for testing [WireFish In C ]
-[{ress here](https://drive.google.com/file/d/1yq-oMuAJXUwZTHCU7lnZeaccXeTkDXG3/view?usp=sharing)
+[Press here](https://drive.google.com/file/d/1yq-oMuAJXUwZTHCU7lnZeaccXeTkDXG3/view?usp=sharing)
 
 ---
 
