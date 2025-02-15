@@ -1,6 +1,7 @@
 # Wirefish++ 
 ![](images/logo.png)
 - Network Packet Sniffer (C++ with Qt GUI)**
+  
 🚀 **Wirefish++** is the next version of **Wirefish**, a network packet sniffer developed using **C++ and Object-Oriented Programming (OOP)** principles, integrated with a **Qt GUI**. It allows real-time packet capture, filtering, and analysis of various network protocols.
 
 ## **📌 Features**
