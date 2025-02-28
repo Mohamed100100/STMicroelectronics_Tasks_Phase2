@@ -1,4 +1,4 @@
-# Clothes Shop System
+# Clothes Shop System IPC (Inter-Process Communication)
 
 A concurrent shared-memory communication system for retail shop management built with POSIX IPC (Inter-Process Communication) in C.
 
