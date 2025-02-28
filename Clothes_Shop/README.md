@@ -1,4 +1,4 @@
-# Shop Management System
+# Clothes Shop System
 
 A concurrent shared-memory communication system for retail shop management built with POSIX IPC (Inter-Process Communication) in C.
 
@@ -46,14 +46,8 @@ The system uses various IPC mechanisms for real-time communication between proce
 ## Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/your-username/shop-management-system.git
-cd shop-management-system
-
 # Compile the program
-gcc -o shop_system shop_system.c -lrt -lpthread
-
-# If you encounter permission issues, run as root or use sudo
+gcc -o shop_system clothes.c
 ```
 
 ## Usage
