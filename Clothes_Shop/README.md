@@ -127,10 +127,3 @@ Semaphores protect shared memory from race conditions during concurrent access.
 - Product names limited to 50 characters
 - Message size limited to 256 bytes
 
-## License
-
-[MIT License](LICENSE)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
